@@ -4,6 +4,6 @@ public static void main(String[] args) {
 
    
 
-    int b=4;
+    int c=4;
     
 }
